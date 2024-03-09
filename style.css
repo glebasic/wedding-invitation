@@ -1,0 +1,228 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+
+    .container {
+    display: flex;
+    flex-direction: column;
+    }
+
+
+    .one{
+        margin-bottom: 80px;
+        font-size: 90px;
+    }
+
+    .fnt{
+        font-size: 90px;
+        margin: 0px;
+    }
+
+    .simv{
+        font-size: 90px;
+        margin: 0px;
+    }   
+
+    
+    .slide {
+        background-image: url(a.avif);
+        font-family: Caveat;
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black;
+    }
+
+    .image{
+        height: 800px;
+        float: right;
+        margin-right: 100px;
+    }
+
+    .slide1 {
+        background-color: blanchedalmond;
+        font-family: Caveat;
+        font-size: 50px;
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black;
+    }
+
+    .t{
+        font-size: 70px;
+        color: #000;
+        margin-top: 200px;
+    }
+
+    .slide2{
+        font-family: Caveat;
+        background-image: url(a.avif);
+        font-size: 70px;
+        height: 100vh;
+        text-align: center;
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        color: black;
+    }
+
+    .taiming{
+        color: chocolate;
+    }
+
+    .zuravka{
+        padding-top: 350px;
+        height: 1300px;
+        font-family: Caveat;
+        background-image: url(a.avif);
+        font-size: 90px;
+        height: 100vh;
+        text-align: center;
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        color: black;
+    }
+
+    .img2{
+        width: 1400px;
+        height: 700px;
+    }
+
+    .i{
+        background-image: url(a.avif);
+        height: 100vh;
+        text-align: center;
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        padding-top: 200px;
+    }
+
+    .tt{
+        font-size: 80px;
+        color: chocolate;
+    }
+
+    .ttt{
+        font-size: 60px;
+        margin-top: 10px;
+    }
+
+    .located{
+        background-image: url(a.avif);
+        font-family: Caveat;
+        font-size: 50px;
+        height: 100vh;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black;
+    }
+
+    .lala{
+        font-family: Caveat;
+        background-image: url(a.avif);
+        font-size: 70px;
+        width: 900px;
+        margin-right: 50px;
+        text-align: center;
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        color: black;
+    }
+
+    .zag{
+        font-size: 50px;
+        color: chocolate;
+        font-weight: normal;
+    }
+
+    .zag1{
+        font-size: 50px;
+    }
+     
+    .map{
+        height: 700px;
+        width: 700px;
+        float: right;
+    }
+
+    .konec{
+        background-image: url(a.avif);
+    }
+
+    .zhdem{
+        font-family: Caveat;
+        background-color: blanchedalmond;
+        height: 35vh;
+        text-align: center;
+        padding-top: 120px;
+        font-size: 80px;
+    }
+
+    .content {
+    text-align: center;
+    }
+
+    h1, h2 {
+    font-size: 2rem;
+    }
+    
+    .contact {
+    background-color: blanchedalmond;
+    height: 50vh;
+    padding: 20px;
+    }
+
+    
+    form {
+    display: flex;
+    flex-direction: column;
+    }
+    
+    label {
+    margin-bottom: 5px;
+    }
+    
+    input, textarea {
+    margin-bottom: 10px;
+    padding: 5px;
+    }
+    
+    .ms{
+        height: 140px;
+    }
+
+    button {
+    background-color: #333;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    }
+    
+    button:hover {
+    background-color: #555;
+    }
+
+    .zhdat{
+        font-family: Caveat;
+        background-color: blanchedalmond;
+        height: 35vh;
+        text-align: center;
+        padding-top: 120px;
+        font-size: 80px;
+    }
